@@ -27,8 +27,8 @@ const HeroSection = () => {
                 Dog
               </h1>
               <p className="text-base text-gray-600 mb-6">
-                Worried About Your Dog's Diet? Wondering How Much They Really Need
-                To Eat? We Make It Simple! Calculate Your Dog's Daily Calorie
+                Worried About Your Dog&#39;s Diet? Wondering How Much They Really Need
+                To Eat? We Make It Simple! Calculate Your Dog&#39;s Daily Calorie
                 Needs And Let Our Cutting-Edge AI Create Delicious, Personalized
                 Fresh Food Recipes Using Only Dog-Approved Ingredients. No More
                 Guessing, Just Healthy, Happy Meals For Your Furry Friend!
